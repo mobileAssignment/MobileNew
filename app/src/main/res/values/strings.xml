@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile Assignment</string>
+    <string name="logo">The Wok</string>
+    <string name="login_button">LOGIN</string>
+    <string name="register_button">REGISTER</string>
+    <string name="register_title">Register</string>
+    <string name="home_desc">Choose the Best Gym Equipments through our app at Best Prices.</string>
+</resources>
